@@ -2,9 +2,9 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://jagdish-dev.xyz](https://jagdish-dev.xyz)
+- 👨‍💻 All of my projects are available at [https://jagdish-portfolio.netlify.app/](https://jagdish-portfolio.netlify.app/)
 
-- 📝 I regularly write articles on [https://techyworld.jagdish-dev.xyz](https://techyworld.jagdish-dev.xyz)
+- 📝 I regularly write articles on [https://jagdishdev32.github.io/blogs/](https://jagdishdev32.github.io/blogs/)
 
 - 💬 Ask me about **react, nodejs, python & javascript**
 
